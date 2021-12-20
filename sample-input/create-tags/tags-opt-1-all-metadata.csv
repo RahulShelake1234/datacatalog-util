@@ -1,5 +1,5 @@
 linked_resource,template_name,column,field_id,field_value
-//bigquery.googleapis.com/projects/PROJECT_ID/datasets/DATASET_ID,projects/PROJECT_ID/locations/us-central1/tagTemplates/TEMPLATE_ID,,boolean_field1,FALSE
+//bigquery.googleapis.com/projects/annular-lodge-333807/datasets/us_state_sales,projects/annular-lodge-333807/locations/us-central1/tagTemplates/my_tutorial_template,,boolean_field1,FALSE
 //bigquery.googleapis.com/projects/PROJECT_ID/datasets/DATASET_ID,projects/PROJECT_ID/locations/us-central1/tagTemplates/TEMPLATE_ID,,boolean_field2,TRUE
 //bigquery.googleapis.com/projects/PROJECT_ID/datasets/DATASET_ID,projects/PROJECT_ID/locations/us-central1/tagTemplates/TEMPLATE_ID,,double_field,2.56
 //bigquery.googleapis.com/projects/PROJECT_ID/datasets/DATASET_ID,projects/PROJECT_ID/locations/us-central1/tagTemplates/TEMPLATE_ID,,enum_data_classification,Restricted
